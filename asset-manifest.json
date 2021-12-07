@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pixelcraft-studios-portfolio/static/css/main.3fefc28a.chunk.css",
+    "main.js": "/pixelcraft-studios-portfolio/static/js/main.ad33212b.chunk.js",
+    "main.js.map": "/pixelcraft-studios-portfolio/static/js/main.ad33212b.chunk.js.map",
+    "runtime-main.js": "/pixelcraft-studios-portfolio/static/js/runtime-main.9e23a13b.js",
+    "runtime-main.js.map": "/pixelcraft-studios-portfolio/static/js/runtime-main.9e23a13b.js.map",
+    "static/js/2.6352d30d.chunk.js": "/pixelcraft-studios-portfolio/static/js/2.6352d30d.chunk.js",
+    "static/js/2.6352d30d.chunk.js.map": "/pixelcraft-studios-portfolio/static/js/2.6352d30d.chunk.js.map",
+    "index.html": "/pixelcraft-studios-portfolio/index.html",
+    "static/css/main.3fefc28a.chunk.css.map": "/pixelcraft-studios-portfolio/static/css/main.3fefc28a.chunk.css.map",
+    "static/js/2.6352d30d.chunk.js.LICENSE.txt": "/pixelcraft-studios-portfolio/static/js/2.6352d30d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e23a13b.js",
+    "static/js/2.6352d30d.chunk.js",
+    "static/css/main.3fefc28a.chunk.css",
+    "static/js/main.ad33212b.chunk.js"
+  ]
+}
