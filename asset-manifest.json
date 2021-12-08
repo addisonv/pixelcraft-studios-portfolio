@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.3fefc28a.chunk.css",
-    "main.js": "/static/js/main.a2e42320.chunk.js",
-    "main.js.map": "/static/js/main.a2e42320.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ab75e8fd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ab75e8fd.js.map",
-    "static/js/2.eb2bba3b.chunk.js": "/static/js/2.eb2bba3b.chunk.js",
-    "static/js/2.eb2bba3b.chunk.js.map": "/static/js/2.eb2bba3b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.3fefc28a.chunk.css.map": "/static/css/main.3fefc28a.chunk.css.map",
-    "static/js/2.eb2bba3b.chunk.js.LICENSE.txt": "/static/js/2.eb2bba3b.chunk.js.LICENSE.txt"
+    "main.css": "/pixelcraft-studios-portfolio/static/css/main.3fefc28a.chunk.css",
+    "main.js": "/pixelcraft-studios-portfolio/static/js/main.a2e42320.chunk.js",
+    "main.js.map": "/pixelcraft-studios-portfolio/static/js/main.a2e42320.chunk.js.map",
+    "runtime-main.js": "/pixelcraft-studios-portfolio/static/js/runtime-main.9f009aae.js",
+    "runtime-main.js.map": "/pixelcraft-studios-portfolio/static/js/runtime-main.9f009aae.js.map",
+    "static/js/2.eb2bba3b.chunk.js": "/pixelcraft-studios-portfolio/static/js/2.eb2bba3b.chunk.js",
+    "static/js/2.eb2bba3b.chunk.js.map": "/pixelcraft-studios-portfolio/static/js/2.eb2bba3b.chunk.js.map",
+    "index.html": "/pixelcraft-studios-portfolio/index.html",
+    "static/css/main.3fefc28a.chunk.css.map": "/pixelcraft-studios-portfolio/static/css/main.3fefc28a.chunk.css.map",
+    "static/js/2.eb2bba3b.chunk.js.LICENSE.txt": "/pixelcraft-studios-portfolio/static/js/2.eb2bba3b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab75e8fd.js",
+    "static/js/runtime-main.9f009aae.js",
     "static/js/2.eb2bba3b.chunk.js",
     "static/css/main.3fefc28a.chunk.css",
     "static/js/main.a2e42320.chunk.js"
